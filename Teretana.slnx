@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Teretana.BusinessLayer/Teretana.BusinessLayer.csproj" Id="d3bd7770-6918-4ebf-9471-f85c54919029" />
+  <Project Path="Teretana.DataLayer/Teretana.DataLayer.csproj" Id="fb08d524-02af-4c71-a6a0-23f06a628b5a" />
+  <Project Path="Teretana.Presentation/Teretana.Presentation.csproj" Id="7c08c216-82ce-460a-8bc1-dbf39b5a1bd7" />
+</Solution>
